@@ -1,4 +1,13 @@
 {
-  "name": "firtProjet",
-  "displayName": "firtProjet"
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "rect_native_first_app",
+    "slug": "rect_native_first_app"
+  }
 }
